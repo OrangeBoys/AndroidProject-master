@@ -1,0 +1,4 @@
+include ':app', ':mvp_demo'
+include ':base'
+include ':widget'
+include ':umeng'
